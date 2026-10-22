@@ -1,4 +1,3 @@
-
 # Hi, I'm Inda Obanyi 👋
 
 ### AI/ML Developer | Software Developer | Technology Founder
