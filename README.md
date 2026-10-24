@@ -55,3 +55,26 @@ A flood-risk awareness prototype for Nigerian communities.
 [GitHub](https://github.com/Inda-Obanyi)
 
 **Building intelligent systems for the real world.**
+
+---
+
+## Engineering case study | Recruiter overview
+
+### Inda Obanyi — Engineering Profile
+
+**Project status:** Active professional profile
+
+**Why I developed it:** Give technical recruiters and collaborators a clear path from engineering skills to evidence-backed work.
+
+**Engineering process:** Project selection → documentation → source-code linking → technical outcomes → demo linking → professional contact.
+
+**Evidence and limitations:** Public profile describing applied ML projects, AI product prototypes and developing platforms.
+
+**Planned outcome:** Keep project status, results, demos and engineering milestones current.
+
+**What this demonstrates:** Problem framing, system implementation, evaluation, communication of limitations, and iterative product thinking.
+
+**[Source repository](https://github.com/Inda-Obanyi/Inda-Obanyi)**
+
+**Inda Obanyi** — AI/ML Engineer · Software Developer · Founder, Yaqini & Duniya Technology  
+[Portfolio](https://indaobanyi.vercel.app) · [LinkedIn](https://www.linkedin.com/in/inda-obanyi-8886553a6/) · [GitHub](https://github.com/Inda-Obanyi)
