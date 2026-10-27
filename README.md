@@ -41,6 +41,15 @@ A flood-risk awareness prototype for Nigerian communities.
 
 [Live Prototype](https://3e7e648e.mydala.app)
 
+## 🔍 Verified engineering evidence
+
+| Project | What you can inspect | Validation boundary |
+| --- | --- | --- |
+| [NEXUS](https://github.com/Yaqini-Duniya-Technology/nexus-intelligent-farm) | [System architecture](https://github.com/Yaqini-Duniya-Technology/nexus-intelligent-farm/blob/master/docs/ARCHITECTURE.md) · [Automated Python tests](https://github.com/Yaqini-Duniya-Technology/nexus-intelligent-farm/actions/workflows/ci.yml) | 720-step simulation documented; no real-farm validation claimed |
+| [FraudGuard AI](https://github.com/Yaqini-Duniya-Technology/mobile-money-fraud-prediction) | [System architecture](https://github.com/Yaqini-Duniya-Technology/mobile-money-fraud-prediction/blob/main/docs/ARCHITECTURE.md) · [Automated checks](https://github.com/Yaqini-Duniya-Technology/mobile-money-fraud-prediction/actions/workflows/fraudguard-ci.yml) | Offline metrics and experimental API; no production fraud-prevention claim |
+
+See the [portfolio case studies](https://indaobanyi.vercel.app/projects) for engineering decisions, limitations and project context.
+
 ## 🌱 Currently Developing
 
 - Agentic AI systems
